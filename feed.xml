@@ -5,9 +5,29 @@
     <description>Test</description>
     <link>http://www.evino.com.br/</link>
     <atom:link href="http://www.evino.com.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Apr 2016 13:56:03 -0300</pubDate>
-    <lastBuildDate>Mon, 18 Apr 2016 13:56:03 -0300</lastBuildDate>
+    <pubDate>Mon, 18 Apr 2016 16:14:34 -0300</pubDate>
+    <lastBuildDate>Mon, 18 Apr 2016 16:14:34 -0300</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Redirect test</title>
+        <description>&lt;p&gt;DID IT WORK?&lt;/p&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+	window.location.href = &quot;http://vbrittes.bitbucket.org&quot;
+&lt;/script&gt;
+
+</description>
+        <pubDate>Thu, 17 Mar 2016 10:43:22 -0300</pubDate>
+        <link>http://www.evino.com.br/jekyll/update/2016/03/17/redirect-test.html</link>
+        <guid isPermaLink="true">http://www.evino.com.br/jekyll/update/2016/03/17/redirect-test.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Did it work?</title>
@@ -49,6 +69,10 @@
 &lt;p&gt;&lt;a href=&quot;evinoapp://product/villa-elisa-dry-red-46472&quot;&gt;evinoapp://product/villa-elisa-dry-red-46472&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/jekyll/update/2016/03/17/did-it-work.html&quot;&gt;working with jekyll&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/jekyll/update/2016/03/17/redirect-test.html&quot;&gt;redirect&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://vbrittes.github.io/jekyll/update/2016/03/17/did-it-work.html&quot;&gt;working with news&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;http://news.evino.com.br/pub/cc?&lt;em&gt;ri&lt;/em&gt;=X0Gzc2X%3DYQpglLjHJlTQGum9qSharwAbbnzd3rGfNHYSbzbM2OucGbsAXRlzezaJzd3flFCpAVXtpKX%3DTRYDAT&amp;amp;&lt;em&gt;ei&lt;/em&gt;=Eq2tf9zs59idfPO1Sc_9BbkspxcUeOO4_b9k0zRTsO-k-szZYOXt2s9leF4NO1atGjs6CAUOeNE.&amp;amp;product=marchesi-del-salento-primitivo-puglia-igt-45262&lt;/p&gt;
 </description>
