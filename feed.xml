@@ -5,8 +5,8 @@
     <description>Test</description>
     <link>http://www.evino.com.br/</link>
     <atom:link href="http://www.evino.com.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Apr 2016 16:14:34 -0300</pubDate>
-    <lastBuildDate>Mon, 18 Apr 2016 16:14:34 -0300</lastBuildDate>
+    <pubDate>Mon, 18 Apr 2016 19:10:44 -0300</pubDate>
+    <lastBuildDate>Mon, 18 Apr 2016 19:10:44 -0300</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -14,13 +14,73 @@
         <description>&lt;p&gt;DID IT WORK?&lt;/p&gt;
 
 &lt;script type=&quot;text/javascript&quot;&gt;
-	window.location.href = &quot;http://vbrittes.bitbucket.org&quot;
+	window.location.href = &quot;http://vbrittes.github.io/tavernello-rosso-47282.html&quot;
 &lt;/script&gt;
 
 </description>
         <pubDate>Thu, 17 Mar 2016 10:43:22 -0300</pubDate>
-        <link>http://www.evino.com.br/jekyll/update/2016/03/17/redirect-test.html</link>
-        <guid isPermaLink="true">http://www.evino.com.br/jekyll/update/2016/03/17/redirect-test.html</guid>
+        <link>http://www.evino.com.br/jekyll/update/2016/03/17/redirect-to-product.html</link>
+        <guid isPermaLink="true">http://www.evino.com.br/jekyll/update/2016/03/17/redirect-to-product.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Redirect test</title>
+        <description>&lt;p&gt;DID IT WORK?&lt;/p&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+	window.location.href = &quot;http://vbrittes.github.io/cart&quot;
+&lt;/script&gt;
+
+</description>
+        <pubDate>Thu, 17 Mar 2016 10:43:22 -0300</pubDate>
+        <link>http://www.evino.com.br/jekyll/update/2016/03/17/redirect-to-cart.html</link>
+        <guid isPermaLink="true">http://www.evino.com.br/jekyll/update/2016/03/17/redirect-to-cart.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Redirect test</title>
+        <description>&lt;p&gt;DID IT WORK?&lt;/p&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+	window.location.href = &quot;http://vbrittes.github.io/bestsellers/&quot;
+&lt;/script&gt;
+
+</description>
+        <pubDate>Thu, 17 Mar 2016 10:43:22 -0300</pubDate>
+        <link>http://www.evino.com.br/jekyll/update/2016/03/17/redirect-to-campaign.html</link>
+        <guid isPermaLink="true">http://www.evino.com.br/jekyll/update/2016/03/17/redirect-to-campaign.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Redirect test</title>
+        <description>&lt;p&gt;DID IT WORK?&lt;/p&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+	window.location.href = &quot;http://vbrittes.github.io/customer/account&quot;
+&lt;/script&gt;
+
+</description>
+        <pubDate>Thu, 17 Mar 2016 10:43:22 -0300</pubDate>
+        <link>http://www.evino.com.br/jekyll/update/2016/03/17/redirect-to-account.html</link>
+        <guid isPermaLink="true">http://www.evino.com.br/jekyll/update/2016/03/17/redirect-to-account.html</guid>
         
         
         <category>jekyll</category>
@@ -70,7 +130,10 @@
 
 &lt;p&gt;&lt;a href=&quot;/jekyll/update/2016/03/17/did-it-work.html&quot;&gt;working with jekyll&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/jekyll/update/2016/03/17/redirect-test.html&quot;&gt;redirect&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/jekyll/update/2016/03/17/redirect-product.html&quot;&gt;test product&lt;/a&gt;
+&lt;a href=&quot;/jekyll/update/2016/03/17/redirect-campaign.html&quot;&gt;test campaign&lt;/a&gt;
+&lt;a href=&quot;/jekyll/update/2016/03/17/redirect-cart.html&quot;&gt;test cart&lt;/a&gt;
+&lt;a href=&quot;/jekyll/update/2016/03/17/redirect-account.html&quot;&gt;test account&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://vbrittes.github.io/jekyll/update/2016/03/17/did-it-work.html&quot;&gt;working with news&lt;/a&gt;&lt;/p&gt;
 
