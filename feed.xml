@@ -5,12 +5,12 @@
     <description>Test</description>
     <link>http://www.evino.com.br/</link>
     <atom:link href="http://www.evino.com.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Apr 2016 13:52:46 -0300</pubDate>
-    <lastBuildDate>Mon, 18 Apr 2016 13:52:46 -0300</lastBuildDate>
+    <pubDate>Mon, 18 Apr 2016 13:54:34 -0300</pubDate>
+    <lastBuildDate>Mon, 18 Apr 2016 13:54:34 -0300</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Universal Links Test</title>
+        <title>Did it work?</title>
         <description>&lt;p&gt;DID IT WORK?&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 Mar 2016 10:43:22 -0300</pubDate>
