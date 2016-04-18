@@ -6,9 +6,5 @@
                 "paths" : ["*", "/"]
             }
         }
-    },
-
-    "activitycontinuation": {
-        “apps”: ["EKXRFQBJF9.br.com.evino.app"]
     }
 }
