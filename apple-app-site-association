@@ -1,14 +1,14 @@
 {
-    “applinks”: {
-        “apps”: [],
-        “details”: {
+    "applinks": {
+        "apps": [],
+        "details": {
             "EKXRFQBJF9.br.com.evino.app" : {
-                "paths" : ["*"]
+                "paths" : ["*", "/"]
             }
         }
     },
     
     "activitycontinuation": {
-        “apps”: ["EKXRFQBJF9.br.com.evino.app"]
+        "apps": ["EKXRFQBJF9.br.com.evino.app"]
     }
 }
