@@ -1,7 +1,7 @@
 {
-    “applinks”: {
-        “apps”: [],
-        “details”: [
+    "applinks": {
+        "apps": [],
+        "details": [
             {
                 "appID" : "6Z8H5M5MG4.br.com.netshoesapp",
                 "paths" : ["/", "/*/", "*"]
