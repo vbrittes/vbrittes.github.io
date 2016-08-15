@@ -3,10 +3,10 @@
         “apps”: [],
         “details”: {
             "6Z8H5M5MG4.br.com.netshoesapp" : {
-                "paths" : ["*"]
+                "paths" : ["/", "/*/", "*"]
             },
             "6Z8H5M5MG4.br.com.netshoes.zattini" : {
-                "paths" : ["*"]
+                "paths" : ["/", "/*/", "*"]
             },
             "EKXRFQBJF9.br.com.evino.app" : {
                 "paths" : ["/", "/customer/account", "/*/", "/cart"]
